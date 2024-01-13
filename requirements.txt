@@ -1,0 +1,6 @@
+Flask==2.0.1
+Flask-QRcode==0.5.5
+Flask-MySQLdb==0.2.0
+qrcode==7.3
+pyzbar==0.1.8
+Werkzeug==2.0.1
